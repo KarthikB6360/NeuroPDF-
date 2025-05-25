@@ -1,2 +1,2 @@
-# Multigames
-Play multiple games at single site
+# Medicine Recommendation
+Medicine Recommendation System using ML
