@@ -1,2 +1,2 @@
-# Medicine Recommendation
-Medicine Recommendation System using ML
+#Ai Trip Planner 
+Ai recommends a plan to trip
